@@ -17,3 +17,9 @@ repositório API ADS
 
 ### Cronograma de Entregas 
 
+## Link do Vídeo (Projeto)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/d1vkNIYDVWA/0.jpg)](http://www.youtube.com/watch?v=d1vkNIYDVWA)
+
+
+
